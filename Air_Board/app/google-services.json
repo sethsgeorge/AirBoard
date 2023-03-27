@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91119458600",
+    "project_id": "airdraw1",
+    "storage_bucket": "airdraw1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91119458600:android:06b71846807e34e0c8981d",
+        "android_client_info": {
+          "package_name": "com.example.airdraw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91119458600-n3m8ul9ad5q22u904pnp62sdie1fbln1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYlXOTh8ZDSU6T_BB3Zfj5p3o__alQWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91119458600-n3m8ul9ad5q22u904pnp62sdie1fbln1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
